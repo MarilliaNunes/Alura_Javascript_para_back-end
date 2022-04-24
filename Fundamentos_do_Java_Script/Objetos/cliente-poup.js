@@ -32,5 +32,3 @@ console.log(andre)
 
 andre.depositar(500)
 andre.depositarPoup(600)
-
-console.log(andre)
